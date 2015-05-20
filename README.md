@@ -2,50 +2,67 @@
 Write blog at github by hand
 ----
 * Design
-    * ORM
-    * Patterns
+   * ORM
+   * Patterns
       * BCE
       * Singleton
-    * DDD
+   * DDD
 * Skills
-    * java
-        * JavaSE
-        * javaEE
-            * EJB
-            * JSF
-            * JPA
-            * Servlet
-            * Filter
-        * Spring
-            * IOC
-        * Test
-          * Test Framework
+   * CSS
+      * Bootstrap
+   * java
+      * JavaSE
+      * javaEE
+         * EJB
+         * JSF
+            * Primefaces
+         * JPA
+         * Servlet
+         * Filter
+      * Spring
+         * IOC
+      * Test
+         * Test Framework
             * Junit
             * TestNG
-          * Mock library
+         * Mock library
             * Mockito
-        * Other Framework
-            * Guava
-            * JodaTime
-            * Cloner
-            * Hibernate
-            * Omnifaces
-        * Other Tools
-            * Build Tools
-                * Maven
-    * Other Service
-        * Ap Server
-            * Tomcat
-            * Glassfish
-            * Payara
-            * Wildlfy
-        * Code
-            * Nexus
-            * SonarQube
-            * Jenkins
-        * DB
-          * MySQL
-        * Issue Tracking
-            * JIRA
-        * Wiki
-            * Confluence
+      * Security
+         * Shiro
+         * Spring Security
+      * Other Framework
+         * Guava
+         * JodaTime
+         * Cloner
+         * Hibernate
+         * Omnifaces
+      * Other Tools
+         * Build Tools
+            * Maven
+         * IDE
+            * Netbeans
+         * Editor
+            * Notepad++
+   * Other Service
+      * Ap Server
+         * Tomcat
+         * Glassfish
+         * Payara
+         * Wildlfy
+      * Code
+         * Nexus
+         * SonarQube
+         * Jenkins
+         * SCM Manager
+      * DB
+         * MySQL
+      * Issue Tracking
+         * JIRA
+      * Wiki
+         * Confluence
+      * VCS
+         * Git
+            * GitHub
+         * Mercurial
+            * BitBucket
+         
