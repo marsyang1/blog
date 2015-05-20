@@ -1,7 +1,5 @@
 # blog
 Write blog at github by hand
-# blog
-Write blog at github by hand
 ----
 * Design
     * ORM
