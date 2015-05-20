@@ -7,6 +7,8 @@ Write blog at github by hand
       * BCE
       * Singleton
    * DDD
+  *  Coding Style
+    *  Google Style
 * Skills
    * CSS
       * Bootstrap
