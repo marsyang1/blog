@@ -73,3 +73,28 @@ Write blog at github by hand
          * Mercurial
             * BitBucket
          
+Waiting
+* Java 8
+  * Lambda
+  * Time
+* JMS
+  * Apache Kafka
+  * Apache MQ
+* EIP
+  * Apache camel
+* JBoss
+  * Wildfly
+  * Fuse
+* JavaEE
+  * CDI
+  * Json-api
+  * JAX-RS
+    * Jackson with Jax-rs
+* Inject
+  * Guice
+* Design
+  * Design Pattern
+  * CQRS
+* Agile
+  * BDD
+  * TDD
