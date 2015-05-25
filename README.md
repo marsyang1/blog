@@ -9,6 +9,7 @@ Write blog at github by hand
    * DDD
   *  Coding Style
     *  Google Style
+    *  https://google-styleguide.googlecode.com/svn/trunk/javaguide.html
 * Skills
    * CSS
       * Bootstrap
