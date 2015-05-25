@@ -2,7 +2,6 @@
 Write blog at github by hand
 ----
 * Design
-   * ORM
    * Patterns
       * BCE
       * Singleton
