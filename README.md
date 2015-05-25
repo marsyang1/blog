@@ -90,6 +90,11 @@ Waiting
   * Json-api
   * JAX-RS
     * Jackson with Jax-rs
+* JS
+  * AngluarJS
+  * d3.js
+* CSS
+  * bootstrap
 * Inject
   * Guice
 * Design
